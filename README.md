@@ -8,7 +8,7 @@ VPS服务器选择说明：[点击查看>>](https://raw.githubusercontent.com/kj
 下载地址：https://kjfx.lanzoui.com/iqm6Uosbzha    备用下载地址（含MAC版）：<a href="http://www.hostbuf.com/t/988.html" target="_blank">点击下载>></a>
 
 
-### 三、搭建代码（最新3xui）：
+### 三、搭建代码：
 
    bash <(curl -Ls https://mirror.ghproxy.com/https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
