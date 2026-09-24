@@ -9,8 +9,10 @@ VPS服务器选择说明：[点击查看>>](https://raw.githubusercontent.com/kj
 
 
 ### 三、搭建代码
+```
 
    bash <(curl -Ls https://mirror.ghproxy.com/https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+```
 
     
 备用搭建代码（两个任意选择一个使用）
