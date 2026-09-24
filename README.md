@@ -59,3 +59,8 @@ rm -rf /usr/local/x-ui /etc/x-ui /usr/bin/x-ui
 ```
 x-ui
 ```
+## 查看账号与密码：
+x-ui settings
+
+
+
