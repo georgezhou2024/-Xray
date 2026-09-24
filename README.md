@@ -24,6 +24,8 @@ VPS服务器选择说明：[点击查看>>](https://raw.githubusercontent.com/kj
     iptables -I INPUT -p tcp --dport 54321 -j ACCEPT
     iptables -I INPUT -p tcp --dport 443 -j ACCEPT
     iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+    iptables -I INPUT -p tcp --dport 90 -j ACCEPT
+    iptables -I INPUT -p tcp --dport 9090 -j ACCEPT
 
 ### 五、安装证书
     curl https://get.acme.sh | sh; apt install socat -y || yum install socat -y; ~/.acme.sh/acme.sh --set-default-ca --server letsencrypt
