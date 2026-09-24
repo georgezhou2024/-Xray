@@ -39,3 +39,23 @@ VPS服务器选择说明：[点击查看>>](https://raw.githubusercontent.com/kj
 Windows（v2rayN）：https://github.com/2dust/v2rayN/releases/download/6.23/zz_v2rayN-With-Core-SelfContained.7z<br>
 Android（v2rayNG）：https://github.com/2dust/v2rayNG/releases/download/1.8.5/v2rayNG_1.8.5.apk<br>
 IOS（shadowrocket）：https://github.com/kjfx/AppleID<br>
+
+### 一键卸载代码：
+    x-ui uninstall
+### 全自动无交互版本（直接执行，不用手动输入 y）
+
+```
+echo y | x-ui uninstall
+```
+
+## 卸载完成后，执行这条彻底清理残留
+
+```
+rm -rf /usr/local/x-ui /etc/x-ui /usr/bin/x-ui
+```
+
+## ✅ 验证是否卸载干净
+
+```
+x-ui
+```
