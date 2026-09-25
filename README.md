@@ -19,6 +19,14 @@ bash <(wget -qO- https://github.com/233boy/Xray/raw/main/install.sh)
 • 二维码
 • 管理命令
 
+### 二、节点搭建完毕  输入快速查看
+```
+xary
+```
+### 三、订阅转换网站 （订阅完毕的链接可以一键复制转换网站）
+```
+https://acl4ssr-sub.github.io/
+```
 
     
 ### 二 、搭建完后，放行端口
